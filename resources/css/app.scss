@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+#fps_meter {
+    width: 150px;
+}
+
+#overlay, #originalImageCanvas, .overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
